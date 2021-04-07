@@ -1,0 +1,21 @@
+.arjit{
+    background-color: rgb(165, 245, 149) ;
+    display:flex;
+    justify-content:space-between;
+}
+
+* {
+    border: solid;
+}
+.grid{
+    background-color: cyan;
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap ;
+}
+.item{
+    background-color: powderblue;
+    display:flex;
+    justify-content:space-around;
+    flex-wrap:wrap ;
+}
